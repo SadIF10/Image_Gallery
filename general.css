@@ -1,0 +1,106 @@
+.menu {
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    background-color: #5EB762;
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+.lia {
+    float: left;
+    padding: 2% 3%;
+    
+}
+
+.clearfix {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+.scroll a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+a:hover {
+    color:dodgerblue;
+}
+
+
+body {
+    background-color: bisque;
+}
+
+.scroll {
+    color: white;
+    font-size: 35px;
+    padding: 5% 5%;
+    margin-top: 0px;
+    float: right;
+    background-color: #B4DEB6;
+    height: 100%;
+}
+
+.lib {
+    font-size: 30px;
+}
+
+
+.admindba {
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #5EB762;
+}
+
+
+.formm {
+    font-size: 30px;
+    padding: 0px 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.menuf {
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    background-color: darkgrey;
+    min-height: 30px;
+}
+
+
+.menuf a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+.sortvote {
+	color: white;
+	text-decoration: none;
+	background-color: #5EB762;
+	padding: 3px 8px;
+	border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
